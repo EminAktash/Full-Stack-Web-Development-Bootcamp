@@ -1,0 +1,14 @@
+body{
+    font-family:'New Rocker',cursive;
+    background-color: black;
+    color:rgba(224, 18, 18, 0.966);
+}
+
+main{
+    width:60%;
+    margin:0 auto;
+}
+
+h1{
+    font-weight:100;
+}
